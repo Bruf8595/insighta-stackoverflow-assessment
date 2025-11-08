@@ -2,8 +2,8 @@ Stack Overflow Data Analysis
 
 Author: Ruslan Zakruzhetskyi
 Email: rusuk264@gmail.com
-Presentation  
-[Presentation]([https://example.com](https://docs.google.com/presentation/d/1SvC6fBxeS4jJfGgYxIeEoCZKFM7LG_5r1SaigOrRwdI/edit?usp=sharing))
+Presentation  [https://docs.google.com/presentation/d/1SvC6fBxeS4jJfGgYxIeEoCZKFM7LG_5r1SaigOrRwdI/edit?usp=sharing]
+
 
 
 
